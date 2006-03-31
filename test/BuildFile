@@ -1,4 +1,3 @@
-<use name=RecoCaloTools/Navigation>
 <use name=Geometry/CaloEventSetup>	
 <use name=Geometry/CaloGeometry>	
 <use name=Geometry/CaloTopology>		
