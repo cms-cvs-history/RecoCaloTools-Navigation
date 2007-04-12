@@ -4,6 +4,6 @@
 <use name=DataFormats/HcalDetId>	
 <use name=DataFormats/EcalDetId>	
 <use name=FWCore/Framework>	
-<flags SEAL_PLUGIN_NAME="testCaloNavigationAnalyzer">
+<flags EDM_PLUGIN=1>
 <library file=stubs/CaloNavigationAnalyzer.cc name=testCaloNavigationAnalyzer>
 </library>
